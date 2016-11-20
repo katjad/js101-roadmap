@@ -1,7 +1,7 @@
 #JS101 Road Map
 A terminal guide for learning javascript with the Bristol JS101 meet up group.
    
-To be release as a npm module when complete.t
+To be release as a npm module when complete.
 
 ## Usage
 
